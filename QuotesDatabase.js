@@ -284,3 +284,5 @@ const quotes=[
 	}
 ]
 export default quotes
+
+// https://www.golangprograms.com/random-quote-generator.html
