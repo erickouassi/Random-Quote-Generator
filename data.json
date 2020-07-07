@@ -14,5 +14,10 @@
   {
     "quoteAuthor": "nametest4",
     "quoteText": "quote4"
+  },
+  {
+  "quoteAuthor": "Generating a random quote is as easy as pressing the button below.",
+    "quoteText": "Joe Nobody"
   }
+  
 ]
